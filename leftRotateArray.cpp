@@ -1,5 +1,6 @@
 //Left rotate the array by one place
-
+//Time complexity: O(n)
+//space complexity: O(1)
 #include <iostream>
 using namespace std;
 
